@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\bin\Debug\net6.0\mastermind.exe
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\bin\Debug\net6.0\mastermind.deps.json
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\bin\Debug\net6.0\mastermind.runtimeconfig.json
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\bin\Debug\net6.0\mastermind.dll
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\bin\Debug\net6.0\mastermind.pdb
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.AssemblyInfo.cs
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.dll
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\refint\mastermind.dll
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.pdb
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\mastermind.genruntimeconfig.cache
+C:\Users\mehme\Desktop\kodlar\mastermind\mastermind\obj\Debug\net6.0\ref\mastermind.dll
